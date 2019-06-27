@@ -1,0 +1,15 @@
+﻿Build started 8/27/2015 8:21:58 AM.
+     1>Project "A:\DSAProject\Box2D\Build\ZERO_CHECK.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Checking Build System
+         CMake does not need to re-run because A:/DSAProject/Box2D/Build/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because A:/DSAProject/Box2D/Build/Box2D/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because A:/DSAProject/Box2D/Build/HelloWorld/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because A:/DSAProject/Box2D/Build/glew/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because A:/DSAProject/Box2D/Build/glfw/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because A:/DSAProject/Box2D/Build/Testbed/CMakeFiles/generate.stamp is up-to-date.
+     1>Done Building Project "A:\DSAProject\Box2D\Build\ZERO_CHECK.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04

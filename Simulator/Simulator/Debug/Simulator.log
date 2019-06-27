@@ -1,0 +1,9 @@
+﻿Build started 10/19/2015 12:45:31 PM.
+     1>Project "A:\DSAProject\Simulator\Simulator\Simulator.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         Simulator.vcxproj -> A:\DSAProject\Simulator\Debug\Simulator.exe
+     1>Done Building Project "A:\DSAProject\Simulator\Simulator\Simulator.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.60

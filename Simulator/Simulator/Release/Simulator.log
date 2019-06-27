@@ -1,0 +1,9 @@
+﻿Build started 4/29/2016 10:55:06 PM.
+     1>Project "A:\ADAProject\Simulator\Simulator\Simulator.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         Simulator.vcxproj -> A:\ADAProject\Simulator\Release\Simulator.exe
+     1>Done Building Project "A:\ADAProject\Simulator\Simulator\Simulator.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.16

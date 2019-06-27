@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="A:\DSAProject\Box2D\Build\CMakeFiles\313511f2c8414041b61bccc96f137ea5\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{952558F4-FF77-49C3-B1AB-A4ACB8A0D109}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

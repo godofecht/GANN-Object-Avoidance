@@ -1,0 +1,7 @@
+A:/DSAProject/Box2D/Build/Testbed/CMakeFiles/Testbed.dir
+A:/DSAProject/Box2D/Build/HelloWorld/CMakeFiles/HelloWorld.dir
+A:/DSAProject/Box2D/Build/CMakeFiles/ALL_BUILD.dir
+A:/DSAProject/Box2D/Build/CMakeFiles/ZERO_CHECK.dir
+A:/DSAProject/Box2D/Build/Box2D/CMakeFiles/Box2D.dir
+A:/DSAProject/Box2D/Build/glew/CMakeFiles/glew.dir
+A:/DSAProject/Box2D/Build/glfw/CMakeFiles/glfw.dir
